@@ -9,3 +9,5 @@ O código foi feito para uma simulação utilizando o Tinkercard. Os componentes
  5 Resistores de 300 mΩ;
  2 Sensor de distância ultrassônico;
  1 Micro Servo.
+
+![image](https://github.com/manuwaideman/sprint2-edge/assets/98489323/b32994dc-d0c0-4d05-bf92-aabea2b76914)
