@@ -3,9 +3,9 @@ O projeto direcionado a essa sprint consiste em uma lixeira inteligente que é f
  
 O código foi feito para uma simulação utilizando o Tinkercard. Os componentes foram:
 
-1 Placa de ensaio pequena;
-1 Arduíno Uno R3;
-5 Led's vermelho;
-5 Resistores de 300 mΩ;
-2 Sensor de distância ultrassônico;
-1 Micro Servo.
+ 1 Placa de ensaio pequena;
+ 1 Arduíno Uno R3;
+ 5 Led's vermelho;
+ 5 Resistores de 300 mΩ;
+ 2 Sensor de distância ultrassônico;
+ 1 Micro Servo.
